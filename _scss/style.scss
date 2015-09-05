@@ -141,7 +141,7 @@ i.blog-icon {
 header {
 	padding: 25px;
 	padding-bottom: 45px;
-	background: #4889cb;
+	background: #232731;
 	color: #fff;
 	height: 136px;
 	.site-avatar {
@@ -347,8 +347,8 @@ article.post {
 		}
 		.source {
 			padding: 25px;
-			background: hsla(47, 100%, 89%, 1); 
-            border: 1px solid hsla(47, 60%, 75%, 1); 
+			background: hsla(47, 100%, 89%, 1);
+            border: 1px solid hsla(47, 60%, 75%, 1);
 			margin-bottom: 25px;
 			p {
 				margin: 0px;
@@ -363,7 +363,7 @@ article.post {
 			padding: 150px 0px;
 			padding-bottom: 50px;
 			&.no-image {
-				background: #4889cb;
+				background: #232731;
 				padding-top: 125px;
 				.author-container {
 					margin-top: 0;
@@ -561,45 +561,45 @@ specificity overrides some default styles */
 #speakers-list .speaker {
 	padding-top: 30px;
 	min-height: 241px;
-	
+
 	&:first-of-type {
 		padding-left: 1em;
 	}
-	
+
 	.info {
 		padding-top: 0;
 	}
-	
+
 	.author-name {
 		padding-top: 0;
 	}
-	
+
 	.author-info {
 		color: #737c82;
 		margin-bottom: 0px;
 		font-size: 13px;
 		margin-top: 3px;
-		
+
 		p {
 			max-height: 80px;
 			overflow: hidden;
 		}
 	}
-	
+
 	.author-meta-info {
 		color: #07c;
 		font-size: 12px;
 		padding-top: 8px;
 	}
-	
+
 	.locale-and-tags {
 		margin-top: -8px;
 	}
-	
+
 	.speaker-location {
 		position: relative;
 		float: right;
-		
+
 		h4 {
 		color: #737c82;
 		padding: 3px 0 0 0;
@@ -608,16 +608,16 @@ specificity overrides some default styles */
 		margin-bottom: 0;
 		float: left;
 		}
-		
+
 		i.location {
 		margin: 3px 3px 0 0;
 		width: 14px;
 		height: 14px;
 		float: left;
 		}
-		
+
 	}
-	
+
 	&.author-container.large img {
 		width: 50px;
 		height: 50px;
@@ -690,7 +690,7 @@ specificity overrides some default styles */
 		}
 		&.full-post {
 			.hero {
-				background: #4889cb!important;
+				background: #232731!important;
 				padding-top: 150px;
 				height: auto;
 				h1 {
